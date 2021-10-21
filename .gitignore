@@ -5,4 +5,4 @@
 /npm-*
 
 # Arhivos de log
-# /logs/*.log
+/logs/*.log
