@@ -1,0 +1,8 @@
+# Carpetas de paquetes de npm
+/node_modules/
+
+# Logs de npm
+/npm-*
+
+# Arhivos de log
+/logs/*.log

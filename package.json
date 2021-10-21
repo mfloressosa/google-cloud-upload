@@ -1,0 +1,16 @@
+{
+  "name": "google-cloud-upload",
+  "version": "1.0.0",
+  "description": "inConcert - Google Cloud Upload",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "5.15.3",
+    "log4js": "6.1.2",
+    "stack-trace": "0.0.9"
+  }
+}
